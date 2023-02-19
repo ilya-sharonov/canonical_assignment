@@ -1,0 +1,23 @@
+hr.u-sv1 {
+    border: 1px dotted #ccc;
+    border-style: none none dotted;
+    color: #fff;
+    background-color: #fff;
+}
+
+.paper {
+    margin: 24px;
+    display: flex;
+}
+
+div.p-card__inner {
+    padding-left: 0;
+    padding-right: 0;
+    font-style: italic;
+}
+
+div.p-card {
+    box-shadow: rgb(99 99 99 / 20%) 0px 2px 8px 0px;
+    border: none;
+    border-top: 3px solid #a87ca0;
+}
